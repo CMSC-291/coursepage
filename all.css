@@ -1,0 +1,23 @@
+
+/* bootstrap.css */
+* {
+   font-size: 14px;
+   line-height: 1.428;
+}
+
+.main {
+    background-color: rgba(223, 242, 123, 0.38);
+    margin-top: 20px;
+}
+
+.sidebar {
+    padding-top: 10px;
+    background-color: rgba(249, 165, 30, 0.26);
+}
+
+.main-content {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
